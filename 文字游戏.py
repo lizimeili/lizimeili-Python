@@ -1,0 +1,6 @@
+print("嗨!")
+print("好无聊")
+print("你叫什么名字?")
+input()
+print("哦!")
+print("知道了!")
